@@ -499,12 +499,11 @@ textarea, .orderForm input[type="text"], .orderForm input[type="month"], .orderF
       top: 1rem;
     }
   }
-  .image-collage {
-    height: 30vh;
-    padding: 0.5rem;
-    border-radius: 1rem;
-  }  
-}
+.image-collage {
+  height: 30vh;
+  padding: 0.5rem;
+  border-radius: 1rem;
+}  
 
 @media screen and (max-width: 960px) {
   .text {
